@@ -46,7 +46,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "คุณต้องการอย่างน้อย 5 ในการเข้าถึงพ่อค้าเครื่องสำอาง",
+ 	 	 	 	"trans": "คุณต้องการอย่างน้อยระดับ 5 ในการเข้าถึงพ่อค้าเครื่องสำอาง",
  	 	 	 	"eng": "You need at least level 5 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -106,17 +106,17 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Workbench ที่มีเครื่องมือที่จำเป็นช่วยให้คุณสามารถจรจัดกับอุปกรณ์ของคุณ",
+ 	 	 	 	"trans": "โต๊ะทำงานที่มีเครื่องมือที่จำเป็นช่วยให้คุณสามารถซ่อมแซมกับอุปกรณ์ของคุณ",
  	 	 	 	"eng": "A workbench with necessary tools allows you to tinker with your equipment."
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "โพสต์การซื้อขายของลี",
+ 	 	 	 	"trans": "สถานีแลกเปลี่ยนของลี",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ร้านค้าการซื้อขายครอบครัวที่ให้คุณแลกเปลี่ยนกับสิ่งที่พวกเขาพบในขณะที่ scavenging",
+ 	 	 	 	"trans": "ร้านค้าการซื้อขายของครอบครัวที่ให้คุณแลกเปลี่ยนกับสิ่งที่พวกเขาพบจากการที่ค้นหาของมา",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
@@ -130,7 +130,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "รีไซเคิลอัตโนมัติเต็มรูปแบบความสามารถในการรีไซเคิลรายการในรูปแบบเศษพื้นฐานของพวกเขา",
+ 	 	 	 	"trans": "เครื่องรีไซเคิลอัตโนมัติเต็มรูปแบบ สามารถรีไซเคิลสิ้งของให้กลับไปสู่เศษซากพื้นฐานของมันได้",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -199,7 +199,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "เริ่มต้นการผจญภัยของคุณสู่ของค้นระดับตำนานได้ที่นี่",
+ 	 	 	 	 	"trans": "เริ่มต้นการผจญภัยของคุณสู่ขุมทรัพย์ระดับตำนานได้ที่นี่",
  	 	 	 	 	"eng": "Start your adventure to epic loots here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -229,7 +229,7 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "ไปที่แก๊งค์สำนักงานใหญ่",
+ 	 	 	 	 	"trans": "ไปที่สำนักงานใหญ่ของแก๊งค์",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -415,7 +415,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "ชิ้นส่วนกุญแจลับ ใช้สำหรับกาบรูตฟอร์สกุญแจลับ\r\n                                ใช้เทอร์มินัลที่ศูนย์กลางเมือง [Hub] เพื่อบรูตฟอร์สกุญแจลับ ${segmentDisplayName} \r\n                                คุณสามารถตามหาชิ้นส่วนกุญแจทั้งสามได้ในแต่ละดันเจี้ยน(ทั้งแบบธรรมดาและแบบท้าทาย)\r\n                                เมื่อคุณได้รับชิ้นส่วนกุญแจทั้งสามแล้ว คุณสามารถใช้เทอร์มินัลบรูตฟอร์ส(คราฟท์) กุญแจเพื่อจะไปยังพื้นที่ถัดไปได้",
+ 	 	 	 	"trans": "ชิ้นส่วนกุญแจลับ ใช้สำหรับการบรูตฟอร์สกุญแจลับ\r\n                                ใช้เทอร์มินัลที่ศูนย์กลางเมือง [Hub] เพื่อบรูตฟอร์สกุญแจลับ ${segmentDisplayName} \r\n                                คุณสามารถตามหาชิ้นส่วนกุญแจทั้งสามได้ในแต่ละดันเจี้ยน(ทั้งแบบธรรมดาและแบบท้าทาย)\r\n                                เมื่อคุณได้รับชิ้นส่วนกุญแจทั้งสามแล้ว คุณสามารถใช้เทอร์มินัลบรูตฟอร์ส(คราฟท์) กุญแจเพื่อจะไปยังพื้นที่ถัดไปได้",
  	 	 	 	"eng": "Secret key Fragment Use to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -638,11 +638,11 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "ความจำประสบการณ์",
+ 	 	 	 	"trans": "เมมโมรี่ประสบการณ์",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ความทรงจำของใครบางคน เมื่อใช้คุณอาจได้รับประสบการณ์จากสิ่งนี้",
+ 	 	 	 	"trans": "คลังเมมโมรี่ที่บรรจุความทรงจำของใครบางคน เมื่อใช้คุณอาจได้รับประสบการณ์จากสิ่งนี้",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
@@ -1158,11 +1158,11 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "เล่น Mega Pachinko เกม",
+ 	 	 	 	"trans": "เล่นเกมเมก้าปาจิงโกะ",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 10000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##",
+ 	 	 	 	"trans": "คนนิจิวะ!! ^___^\r\n        เข้ามาเล่นเมก้าปาจิงโกะสิ! มีโอกาสได้รับรางวัลใหญ่บิ๊กเบิ้มเชียวนะ\r\n        แค่ 5000 btc ต่อครั้ง, ข้อเสนอจำกัดเวลา ช้าหมด อดนะจ๊ะ!!! <3<3<3\r\n        ##ขอขอบคุณ Militech ที่ให้การสนุบสนุนกิจกรรมนี้##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
@@ -1172,13 +1172,13 @@
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ขำขานเจ้าหน้าที่ของรัฐและ SLPD และเก็บค่าธรรมเนียมการคุ้มครองจากเจ้าของธุรกิจและประชาชนใน Shangri-Lah บางทีคุณอาจจะได้รับรายการมหากาพย์จากพวกเขา? (ยอดสองแก๊งสุดพิเศษ)",
+ 	 	 	 	"trans": "ติดสินบนเจ้าหน้าที่ของรัฐและ SLPD และเก็บค่าธรรมเนียมการคุ้มครองจากเจ้าของธุรกิจและประชาชนใน Shangri-Lah บางทีคุณอาจจะได้รับไอเท็มอย่างดีจากพวกเขา? (เฉพาะแก๊งค์สองอันดับแรกเท่านั้น)",
  	 	 	 	"eng": "Bribe Government officials and SLPD and Collect Protection Fees from business owner and citizens in Shangri-lah. maybe you will get some EPIC items from them? (Top Two Gang Exclusive)"
  	 	 	}
  	 	},
  	 	"globalQuest": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hack SL Data Fortress",
+ 	 	 	 	"trans": "เจาะระบบป้มปราการข้อมูลของ SL",
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
@@ -1382,11 +1382,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "Skipping ${skipCount}",
+ 	 	 	 	"trans": "กำลังข้าม ${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "ข้ามที่มีอยู่",
+ 	 	 	 	"trans": "หารขัามที่มีอยู่",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
